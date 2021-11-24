@@ -1,3 +1,4 @@
+# Resaurant
 """Classes that can be used as representing restaurants."""
 
 class Restaurant:

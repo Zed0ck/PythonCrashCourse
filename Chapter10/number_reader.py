@@ -1,3 +1,4 @@
+#number reader
 import json
 
 filename = 'numbers.json'

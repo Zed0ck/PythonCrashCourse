@@ -1,3 +1,4 @@
+# Dice
 from random import randint
 
 def roll_d6():

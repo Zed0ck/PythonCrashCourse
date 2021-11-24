@@ -1,3 +1,4 @@
+# My restaurent
 from restaurant import Restaurant
 
 my_restaurant = Restaurant('plevna', 'fine dinning')

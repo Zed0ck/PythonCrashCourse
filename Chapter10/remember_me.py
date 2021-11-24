@@ -1,3 +1,4 @@
+# Remember me
 import json
 
 # Load the username, if it has been stored previously.
