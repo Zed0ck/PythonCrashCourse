@@ -1,3 +1,4 @@
+# User
 class User:
     """Class for users"""
     def __init__(self, first_name, last_name, role):

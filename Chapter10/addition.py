@@ -1,3 +1,4 @@
+# Addition
 print("Give me two numbers and I add them together.")
 print("Enter 'q' to quit")
 

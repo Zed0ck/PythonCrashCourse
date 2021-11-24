@@ -1,3 +1,4 @@
+#guest book
 filename = 'guest_book.txt'
 name = ''
 

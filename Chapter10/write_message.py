@@ -1,3 +1,4 @@
+# Write message
 filename = 'programming.txt'
 
 #with open(filename, 'w') as file_object:

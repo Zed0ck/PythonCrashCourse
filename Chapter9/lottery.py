@@ -1,3 +1,4 @@
+# Lottery
 from random import choice
 
 lotteries = ['a', 'f', 'r', 'q', 1, 6, 42, 24, 2, 15, 25, 33, 31, 7]

@@ -1,3 +1,4 @@
+# Read learning python
 filename = 'text_files/learning_python.txt'
 
 with open(filename) as file_object:

@@ -1,3 +1,3 @@
 In Python you can use for loops to go through lists.
 In Python if statements can be used to check if something applies.
-in Python variables can be used for so many ways.
+in Python variables can be used for so many ways!

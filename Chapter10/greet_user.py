@@ -1,3 +1,4 @@
+# greet user
 import json
 
 filename = 'username.json'

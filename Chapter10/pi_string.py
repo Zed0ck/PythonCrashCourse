@@ -1,3 +1,4 @@
+# pi string
 filename = 'text_files/pi_million_digits.txt'
 
 with open(filename) as file_object:

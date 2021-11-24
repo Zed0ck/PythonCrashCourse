@@ -1,3 +1,4 @@
+#guest list
 name = input("Give your name to the list: ")
 
 filename = 'guest.txt'
