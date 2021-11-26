@@ -28,7 +28,6 @@ def greet_user():
         username = get_new_username()
         print(f"We'll remember you when you come back, {username}!")
 
-
 # Code is refactored so it is moved to function and is called afterwards. So it
 # can be colled multiple times.
 
